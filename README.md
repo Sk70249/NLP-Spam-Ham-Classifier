@@ -110,8 +110,8 @@ All the above-discussed sections are combined to build a Spam-Ham Classifier.
 Precision: 1.0 / Recall: 0.862 / F1-Score: 0.926 / Accuracy: 98.027%
 ![download (2)](https://user-images.githubusercontent.com/48255425/80210629-b2e44a00-8651-11ea-8119-7f341ecfdb58.png)
 
-Random Forest gives an accuracy of 98.72. High-value F1-score is also obtained from the model. Confusion Matrix tells us that we correctly predicted 955 hams and 138 spams.0 hams were incorrectly identified as spams and 26 spams were incorrectly predicted as hams. Detecting spams as hams are justifiable as compared to hams as spams.
+Random Forest gives an accuracy of 98.027%. High-value F1-score and 100% Precision is also obtained from the model. Confusion Matrix tells us that we correctly predicted 955 hams and 138 spams.0 hams were incorrectly identified as spams and 22 spams were incorrectly predicted as hams. Detecting spams as hams are justifiable as compared to hams as spams.
 
 #### Find the above code here :
-##### https://github.com/Sk70249/NLP-Spam-Ham-Classifier/blob/master/NLP%20Spam-Ham%20Classifier.ipynb.
+https://github.com/Sk70249/NLP-Spam-Ham-Classifier/blob/master/NLP%20Spam-Ham%20Classifier.ipynb.
 
