@@ -1,4 +1,4 @@
-# NLP-Spam-Ham-Classifier
+# NLP-Spam-Ham-Classifier &nbsp;&nbsp;[![license](https://img.shields.io/github/license/ajaymache/travis-ci-with-github.svg)](https://opensource.org/licenses/MIT)
 A Machine learning classifier to predict whether the SMS is Spam or Ham by using Natural Language Processing(NLP)
 
 ### (Natural Language Toolkit)NLTK: 
