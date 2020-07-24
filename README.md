@@ -112,6 +112,15 @@ Precision: 1.0 / Recall: 0.862 / F1-Score: 0.926 / Accuracy: 98.027%
 
 Random Forest gives an accuracy of 98.027%. High-value F1-score and 100% Precision is also obtained from the model. Confusion Matrix tells us that we correctly predicted 955 hams and 138 spams.0 hams were incorrectly identified as spams and 22 spams were incorrectly predicted as hams. Detecting spams as hams are justifiable as compared to hams as spams.
 
-#### Find the above code here :
-https://github.com/Sk70249/NLP-Spam-Ham-Classifier/blob/master/NLP%20Spam-Ham%20Classifier.ipynb.
+## Classification Reports
+### 1. Using Heatmap
+
+![download](https://user-images.githubusercontent.com/48255425/88396630-6e975000-cde0-11ea-8d8f-221fffc5b2bc.png)
+
+### 2. Using YellowBricks and GaussianNB 
+
+![download (1)](https://user-images.githubusercontent.com/48255425/88396628-6ccd8c80-cde0-11ea-8a1e-89ae294d0cfa.png)
+
+
+
 
